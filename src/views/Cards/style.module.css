@@ -4,3 +4,14 @@
     flex-wrap:wrap;
     max-width: 1800px;
 }
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buttons__pag{
+    background: #017a5c;
+    padding: 0.5em;
+    color: white;
+    border-radius: 50%;
+}
